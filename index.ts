@@ -8,7 +8,7 @@ import {
   task,
   updateFile,
   writeFile,
-} from "../mod.ts";
+} from "https://x.nest.land/drake@1.5.1/mod.ts";
 
 desc("command-line usage");
 task("help", [], function () {
